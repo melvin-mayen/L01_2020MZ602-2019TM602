@@ -1,0 +1,6 @@
+@L01_2020MZ602_2019TM602_HostAddress = http://localhost:5234
+
+GET {{L01_2020MZ602_2019TM602_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
